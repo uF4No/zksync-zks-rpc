@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "dependencies": {
+    "ethers": "^6.13.2",
+    "zksync-ethers": "^6.11.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
