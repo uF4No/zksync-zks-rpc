@@ -1,3 +1,5 @@
+![](./zk-github-cover.png)
+
 # ZKsync advanced zks RPC API example
 
 > This is a [ZKsync](https://zksync.io) + [ethers v6](https://docs.ethers.org/v6/) + [Node.js](https://nodejs.org/) 
